@@ -1,0 +1,6 @@
+{
+  "name": "MAEK7-TAXI Smart Fleet & Admin Management",
+  "description": "منظومة MAEK7-TAXI الذكية لتسيير أسطول النقل وسيارات الأجرة ثلاثية اللغة (عربية، إنجليزية، فرنسية) مع وكيل ذكي لتسيير المشروع، قوالب ميزات حسب الطلب، لوحة تحكم إدارية شاملة ونظام إشعارات متطور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
